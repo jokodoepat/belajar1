@@ -1,0 +1,2 @@
+nama repository
+git remote add origin https://github.com/jokodoepat/belajar1.git
